@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.chart-container{
+    position: relative;
+    margin: 0 auto;
+}
+canvas{
+    width: 600px;
+    height: 600px;
+}
+h2{
+    margin-left: 39%;
+}
